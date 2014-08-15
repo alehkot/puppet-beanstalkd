@@ -1,0 +1,6 @@
+name    'puphpet-beanstalkd'
+version '1.0.0'
+author  'Puphpet'
+license 'Apache2'
+summary 'Puppet module for Beanstalkd'
+description 'This module installs and manages Beanstalkd'
